@@ -7,4 +7,4 @@
   ██╔══██╗██╔══██║██╔═══╝ ██╔═══╝ ██╔══╝  ██╔══██╗
   ██████╔╝██║  ██║██║     ██║     ███████╗██║  ██║
   ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3168411" />
+<p align="left"> <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3168411" /> </p>
