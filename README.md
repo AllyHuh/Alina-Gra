@@ -8,12 +8,10 @@
 ██║  ██║███████╗██║██║ ╚████║██║  ██║
 ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 
-# Alina GRANETCHI — Cybersecurity Portfolio
-
-```bash
-$ whoami
-Alina Granetchi
-Cybersecurity Intern / Student
++ NAME: Alina Granetchi
++ ROLE: Cybersecurity Intern / Game Developer
++ STATUS: Transitioning to Cyber Operations
++ LOCATION: Kajaani, Finland
 
 SUMMARY
 $ cat summary.txt
